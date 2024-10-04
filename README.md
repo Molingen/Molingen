@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Molingen
-- 🌱 I’m currently learning python, JS, HTML, CSS
+- 🌱 I’m currently learning python, JS, HTML, CSS, C/C++
 - 📫 How to reach me: yfvfyvfyvyfvfyvfyv@gmail.com 
 
 <!---
